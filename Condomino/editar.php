@@ -37,9 +37,8 @@
     <title>Editar Condominio</title>
 </head>
 <body>
-    <header>
-        <h1>Condominos Sol Nascente</h1>
-    </header>
+    <marquee><h1>Condominios Sol Nascente</h1></marquee>
+    <hr/>
 
     <h3>Editar Condomino</h3>
     <br><br>
